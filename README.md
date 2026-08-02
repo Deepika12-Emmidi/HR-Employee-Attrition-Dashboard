@@ -28,7 +28,7 @@ This project is an interactive HR Employee Attrition Dashboard developed using P
 HR Employee Attrition Dataset
 
 ## 📸 Dashboard Preview
-(Add your dashboard screenshot here)
+![Dashboard Preview](Dashboard.png)
 
 ## 👩‍💻 Author
 Deepika Emmidi
